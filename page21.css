@@ -1,0 +1,10 @@
+
+.sidebar{
+    display: none;
+}  
+#test1{
+    float: left;
+}  
+#box{
+    background-color: red;
+}
